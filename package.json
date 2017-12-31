@@ -1,0 +1,20 @@
+{
+  "name": "amazon-echo-onlaunch",
+  "version": "1.0.0",
+  "description": "A simple, no-dependency bootstrapping tool for quickly creating Amazon Alexa Skills in Node.js",
+  "keywords": ["node", "amazon", "alexa", "echo", "onlaunch", "bootstrap"],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuartPearlman/amazon-echo-onlaunch.git"
+  },
+  "author": "Stuart Pearlman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StuartPearlman/amazon-echo-onlaunch/issues"
+  },
+  "homepage": "https://github.com/StuartPearlman/amazon-echo-onlaunch#readme",
+  "engines": {
+    "node": ">=6.10.3"
+  }
+}
